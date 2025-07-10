@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kssaxena&label=Profile%20views&color=0e75b6&style=flat" alt="kssaxena" /> </p>
 
-- 🔭 I’m currently working on [MultiVendor](https://github.com/kssaxena/Multi_Vendor_E-Commerce)
+- 🔭 I’m currently working on [Bindni Jewel](https://github.com/kssaxena/Bindni-Jewel)
 
 - 🌱 I’m currently learning **React, TypeScript, Express, JavaScript**
 
