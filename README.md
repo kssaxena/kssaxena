@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, Express, JavaScript**
 
-- 👨‍💻 All of my projects are available at [mrsaxena.arisertradco.com](mrsaxena.arisertradco.com)
+- 👨‍💻 All of my projects are available at [mrsaxena.arisertradco.com](https://mrsaxena.arisertradco.com)
 
 - 💬 Ask me about **react, express, nodeJs**
 
