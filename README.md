@@ -1,5 +1,7 @@
 <h1 align="center">I'm KSHITIJ SAXENA</h1>
-<h3 align="center">A passionate developer from India</h3>
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kssaxena&label=Profile%20views&color=0e75b6&style=flat" alt="kssaxena" /> </p>
 
