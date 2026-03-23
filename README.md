@@ -1,4 +1,4 @@
-<h1 align="center">😎 Mr_Saxena</h1>
+<h1 align="center">😎 Mr_Saxena | MERN Developer</h1>
 <p align="center" >Engineering solutions that scale with clarity, performance and intent 💪.</p>
 <p align="center">
   <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
